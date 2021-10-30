@@ -1,0 +1,21 @@
+<odoo>
+    <data>
+
+        <template id="antonio.layout">
+&lt;!DOCTYPE html&gt;
+<html>
+<head>
+    <t t-call="antonio.head"/>
+</head>
+<body style="background: cadetblue; color: white;">
+    <t t-call="antonio.header"/>
+    <div class="container my-5">
+        <t t-raw="0"/>
+    </div>
+    <t t-call="antonio.footer"/>
+</body>
+</html>
+        </template>
+
+    </data>
+</odoo>

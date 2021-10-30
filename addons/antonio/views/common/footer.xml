@@ -1,0 +1,12 @@
+<odoo>
+    <data>
+
+        <template id="antonio.footer">
+<footer class="text-center">
+<hr />
+@ copyright
+</footer>
+        </template>
+
+    </data>
+</odoo>

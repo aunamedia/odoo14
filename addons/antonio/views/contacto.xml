@@ -1,0 +1,12 @@
+<odoo>
+    <data>
+
+        <template id="antonio.contacto">
+<t t-call="antonio.layout">
+    FORMULARIO DE CONTACTO...
+</t>
+
+        </template>
+
+    </data>
+</odoo>

@@ -1,0 +1,11 @@
+<odoo>
+    <data>
+
+        <template id="inicio">
+<t t-call="antonio.layout">
+    BIENVENIDO A LA PÁGINA DE ANTONIO...
+</t>
+        </template>
+
+    </data>
+</odoo>
